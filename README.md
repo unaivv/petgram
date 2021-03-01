@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Petgram
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A React webapp with apollo and graphql server. 
+Instagram for pets.
 
 ## Available Scripts
 
