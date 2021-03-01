@@ -1,4 +1,4 @@
-# Petgram
+# Petgram 🐶
 
 A React webapp with apollo and graphql server. 
 Instagram for pets.
